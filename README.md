@@ -77,7 +77,7 @@ cv2.destroyAllWindows()
 
 ### Histogram Equalization of Grayscale Image
 
-<img width="371" alt="gr" src="https://github.com/JayanthYadav123/HISTOGRAM/assets/94836154/870e171c-9f1c-47e4-acd5-a714182dcc7a">
+<img width="139" alt="gr" src="https://github.com/JayanthYadav123/HISTOGRAM/assets/94836154/870e171c-9f1c-47e4-acd5-a714182dcc7a">
 
 <img width="139" alt="equ" src="https://github.com/JayanthYadav123/HISTOGRAM/assets/94836154/dc9543ae-cc96-4805-a67e-1be0ae26c330">
 
